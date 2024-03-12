@@ -11,7 +11,7 @@
   ],
   "functions": {
     "app/api/cron/**/*.ts": {
-      "maxDuration": 90
+      "maxDuration": 10
     }
   }
 }
